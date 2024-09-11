@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @avecesare
-- 👀 I’m interested in cybersecurity, data protection, privacy and law.
-- 🌱 I’m currently building my skills in cybersecurity and working on a deeper understanding of software development.
-- 📫 Feel free to reach out @ gallo.cesare@proton.me!
+- 👀 I’m interested in cybersecurity, data protection, privacy and law.https://github.com/avecesare/avecesare/blob/main/README.md
+- 🌱 I’m currently building my skills in cybersecurity and working and have an interest open-source development.
 
 <!---
 avecesare/avecesare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
